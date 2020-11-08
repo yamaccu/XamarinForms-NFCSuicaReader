@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_NFCSuicaReader.Views.MainPage"
+             NavigationPage.HasNavigationBar="false">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Label Text="カードをタッチしてください" VerticalOptions="CenterAndExpand"/>
+        <Label/>
+        <Image Source="{Binding imageTouch.Value}" HeightRequest="200" WidthRequest="200" VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>
