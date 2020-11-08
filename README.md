@@ -3,7 +3,7 @@
 <br>
 <br>
 ## 参考になったHP  
-Felicaの使用  
+Felicaの仕様  
 https://www.sony.co.jp/Products/felica/business/tech-support/st_usmnl.html  
 <br>
 交通系ICのシステムコード/サービスコード/レスポンスなど具体例  
